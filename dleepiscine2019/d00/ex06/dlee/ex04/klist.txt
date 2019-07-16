@@ -1,0 +1,3 @@
+krbtgt/42.US.ORG@42.US.ORG
+ldap/ldap-master.42.us.org@42.US.ORG
+host/vgs-fn1.42.us.org@42.US.ORG
